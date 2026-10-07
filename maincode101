@@ -1,0 +1,14 @@
+# Create the file
+touch maincode101
+
+# Add some content (optional)
+echo "Hello, GitHub!" > maincode101
+
+# Add the file to Git
+git add maincode101
+
+# Commit the change
+git commit -m "Add maincode101 file"
+
+# Push to GitHub
+git push origin main
